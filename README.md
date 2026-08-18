@@ -5,19 +5,14 @@ This repository contains all tasks completed during my CodeAlpha Java Internship
 ## Author
 **Name:** Soniya Gautam
 
-### Task 1: Student Grade Tracker
+@ Project 1: Grade Tracker
+**File**: `GradeTracker.java`  
+**Description**: Manages student grades and generates reports.  
+**Features**: Add Student, Calculate Grade, View Records, Save to File  
+**Concepts**: OOP, ArrayList, File I/O, Loops
 
-A console-based Java application to manage and analyze student grades for a class.
-
-#### Features
-- **Student Data Input**: Take Roll No, Name, and marks for 3 subjects
-- **Calculations**: Automatically calculates Average, Grade A-F, and Pass/Fail Status
-- **Table Display**: Shows all student data in a clean table format
-- **Class Analysis**: Finds Class Average and Class Topper
-- **Subject Analysis**: Finds Subject-wise Topper
-- **File Handling**: Saves the complete report to `Report.txt`
-
-#### How to Run
-```bash
-javac GradeTracker.java
-java GradeTracker
+@ Project 2: Hotel Reservation System  
+**File**: `HotelReservationsSystem.java`  
+**Description**: Console-based hotel booking and management system.  
+**Features**: Book/Cancel/View Rooms, Search, Revenue Report  
+**Concepts**: OOP, ArrayList, File I/O, Exception Handling, Menu-Driven
